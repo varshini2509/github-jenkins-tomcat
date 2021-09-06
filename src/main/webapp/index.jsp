@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hi, CloudNative Welcomes you </h2>
+<h2>Hello, CloudNative Welcomes you </h2>
 </body>
 </html>
